@@ -1,0 +1,17 @@
+[0.230s] Invoking command in '/home/uburyo/drone_lifting_ws/build/lifting_sim': PYTHONPATH=/home/uburyo/drone_lifting_ws/build/lifting_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uburyo/drone_lifting_ws/install/lifting_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uburyo/drone_lifting_ws/build/lifting_sim/build --no-deps symlink_data
+[0.324s] running develop
+[0.378s] running egg_info
+[0.379s] writing lifting_sim.egg-info/PKG-INFO
+[0.379s] writing dependency_links to lifting_sim.egg-info/dependency_links.txt
+[0.379s] writing entry points to lifting_sim.egg-info/entry_points.txt
+[0.379s] writing requirements to lifting_sim.egg-info/requires.txt
+[0.379s] writing top-level names to lifting_sim.egg-info/top_level.txt
+[0.380s] reading manifest file 'lifting_sim.egg-info/SOURCES.txt'
+[0.380s] writing manifest file 'lifting_sim.egg-info/SOURCES.txt'
+[0.381s] running build_ext
+[0.381s] Creating /home/uburyo/drone_lifting_ws/install/lifting_sim/lib/python3.10/site-packages/lifting-sim.egg-link (link to .)
+[0.381s] Installing controller script to /home/uburyo/drone_lifting_ws/install/lifting_sim/lib/lifting_sim
+[0.381s] 
+[0.381s] Installed /home/uburyo/drone_lifting_ws/build/lifting_sim
+[0.381s] running symlink_data
+[0.393s] Invoked command in '/home/uburyo/drone_lifting_ws/build/lifting_sim' returned '0': PYTHONPATH=/home/uburyo/drone_lifting_ws/build/lifting_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uburyo/drone_lifting_ws/install/lifting_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uburyo/drone_lifting_ws/build/lifting_sim/build --no-deps symlink_data

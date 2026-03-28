@@ -1,0 +1,1 @@
+/home/uburyo/drone_lifting_ws/build/lifting_sim/launch/simulation.launch.py

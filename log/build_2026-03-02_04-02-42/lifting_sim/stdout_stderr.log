@@ -1,0 +1,36 @@
+running develop
+running egg_info
+creating lifting_sim.egg-info
+writing lifting_sim.egg-info/PKG-INFO
+writing dependency_links to lifting_sim.egg-info/dependency_links.txt
+writing entry points to lifting_sim.egg-info/entry_points.txt
+writing requirements to lifting_sim.egg-info/requires.txt
+writing top-level names to lifting_sim.egg-info/top_level.txt
+writing manifest file 'lifting_sim.egg-info/SOURCES.txt'
+reading manifest file 'lifting_sim.egg-info/SOURCES.txt'
+writing manifest file 'lifting_sim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/uburyo/drone_lifting_ws/install/lifting_sim/lib/python3.10/site-packages/lifting-sim.egg-link (link to .)
+Installing controller script to /home/uburyo/drone_lifting_ws/install/lifting_sim/lib/lifting_sim
+
+Installed /home/uburyo/drone_lifting_ws/build/lifting_sim
+running symlink_data
+creating /home/uburyo/drone_lifting_ws/install/lifting_sim/share/ament_index
+creating /home/uburyo/drone_lifting_ws/install/lifting_sim/share/ament_index/resource_index
+creating /home/uburyo/drone_lifting_ws/install/lifting_sim/share/ament_index/resource_index/packages
+symbolically linking /home/uburyo/drone_lifting_ws/build/lifting_sim/resource/lifting_sim -> /home/uburyo/drone_lifting_ws/install/lifting_sim/share/ament_index/resource_index/packages
+symbolically linking /home/uburyo/drone_lifting_ws/build/lifting_sim/package.xml -> /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim
+creating /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/launch
+symbolically linking /home/uburyo/drone_lifting_ws/build/lifting_sim/launch/simulation.launch.py -> /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/launch
+creating /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/worlds
+symbolically linking /home/uburyo/drone_lifting_ws/build/lifting_sim/worlds/lifting.sdf -> /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/worlds
+creating /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/models
+creating /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/models/m5fly
+symbolically linking /home/uburyo/drone_lifting_ws/build/lifting_sim/models/m5fly/model.config -> /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/models/m5fly
+symbolically linking /home/uburyo/drone_lifting_ws/build/lifting_sim/models/m5fly/model.sdf -> /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/models/m5fly
+creating /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/models/pingpong_ball
+symbolically linking /home/uburyo/drone_lifting_ws/build/lifting_sim/models/pingpong_ball/model.config -> /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/models/pingpong_ball
+symbolically linking /home/uburyo/drone_lifting_ws/build/lifting_sim/models/pingpong_ball/model.sdf -> /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/models/pingpong_ball
+creating /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/models/ground_camera
+symbolically linking /home/uburyo/drone_lifting_ws/build/lifting_sim/models/ground_camera/model.config -> /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/models/ground_camera
+symbolically linking /home/uburyo/drone_lifting_ws/build/lifting_sim/models/ground_camera/model.sdf -> /home/uburyo/drone_lifting_ws/install/lifting_sim/share/lifting_sim/models/ground_camera
