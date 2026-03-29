@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing lifting_sim.egg-info/PKG-INFO
+writing dependency_links to lifting_sim.egg-info/dependency_links.txt
+writing entry points to lifting_sim.egg-info/entry_points.txt
+writing requirements to lifting_sim.egg-info/requires.txt
+writing top-level names to lifting_sim.egg-info/top_level.txt
+reading manifest file 'lifting_sim.egg-info/SOURCES.txt'
+writing manifest file 'lifting_sim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/uburyo/Desktop/nicedrone/install/lifting_sim/lib/python3.10/site-packages/lifting-sim.egg-link (link to .)
+Installing controller script to /home/uburyo/Desktop/nicedrone/install/lifting_sim/lib/lifting_sim
+
+Installed /home/uburyo/Desktop/nicedrone/build/lifting_sim
+running symlink_data
+symbolically linking /home/uburyo/Desktop/nicedrone/build/lifting_sim/resource/lifting_sim -> /home/uburyo/Desktop/nicedrone/install/lifting_sim/share/ament_index/resource_index/packages

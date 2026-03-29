@@ -1,0 +1,19 @@
+[0.261s] Invoking command in '/home/uburyo/Desktop/nicedrone/build/lifting_sim': PYTHONPATH=/home/uburyo/Desktop/nicedrone/build/lifting_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uburyo/Desktop/nicedrone/install/lifting_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uburyo/Desktop/nicedrone/build/lifting_sim/build --no-deps symlink_data
+[0.361s] running develop
+[0.426s] running egg_info
+[0.426s] writing lifting_sim.egg-info/PKG-INFO
+[0.426s] writing dependency_links to lifting_sim.egg-info/dependency_links.txt
+[0.427s] writing entry points to lifting_sim.egg-info/entry_points.txt
+[0.427s] writing requirements to lifting_sim.egg-info/requires.txt
+[0.427s] writing top-level names to lifting_sim.egg-info/top_level.txt
+[0.428s] reading manifest file 'lifting_sim.egg-info/SOURCES.txt'
+[0.428s] writing manifest file 'lifting_sim.egg-info/SOURCES.txt'
+[0.429s] running build_ext
+[0.429s] Creating /home/uburyo/Desktop/nicedrone/install/lifting_sim/lib/python3.10/site-packages/lifting-sim.egg-link (link to .)
+[0.430s] Installing controller script to /home/uburyo/Desktop/nicedrone/install/lifting_sim/lib/lifting_sim
+[0.430s] 
+[0.430s] Installed /home/uburyo/Desktop/nicedrone/build/lifting_sim
+[0.430s] running symlink_data
+[0.430s] symbolically linking /home/uburyo/Desktop/nicedrone/build/lifting_sim/resource/lifting_sim -> /home/uburyo/Desktop/nicedrone/install/lifting_sim/share/ament_index/resource_index/packages
+[0.430s] error: [Errno 17] File exists: '/home/uburyo/Desktop/nicedrone/build/lifting_sim/resource/lifting_sim' -> '/home/uburyo/Desktop/nicedrone/install/lifting_sim/share/ament_index/resource_index/packages/lifting_sim'
+[0.448s] Invoked command in '/home/uburyo/Desktop/nicedrone/build/lifting_sim' returned '1': PYTHONPATH=/home/uburyo/Desktop/nicedrone/build/lifting_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uburyo/Desktop/nicedrone/install/lifting_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uburyo/Desktop/nicedrone/build/lifting_sim/build --no-deps symlink_data

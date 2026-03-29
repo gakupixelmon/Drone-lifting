@@ -1,0 +1,18 @@
+[0.267s] Invoking command in '/home/uburyo/drone_lifting_ws/build/lifting_sim': PYTHONPATH=/home/uburyo/drone_lifting_ws/build/lifting_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uburyo/drone_lifting_ws/install/lifting_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uburyo/drone_lifting_ws/build/lifting_sim/build --no-deps symlink_data
+[0.369s] running develop
+[0.426s] running egg_info
+[0.426s] writing lifting_sim.egg-info/PKG-INFO
+[0.426s] writing dependency_links to lifting_sim.egg-info/dependency_links.txt
+[0.427s] writing entry points to lifting_sim.egg-info/entry_points.txt
+[0.427s] writing requirements to lifting_sim.egg-info/requires.txt
+[0.427s] writing top-level names to lifting_sim.egg-info/top_level.txt
+[0.428s] reading manifest file 'lifting_sim.egg-info/SOURCES.txt'
+[0.428s] writing manifest file 'lifting_sim.egg-info/SOURCES.txt'
+[0.428s] running build_ext
+[0.429s] Creating /home/uburyo/drone_lifting_ws/install/lifting_sim/lib/python3.10/site-packages/lifting-sim.egg-link (link to .)
+[0.429s] Installing controller script to /home/uburyo/drone_lifting_ws/install/lifting_sim/lib/lifting_sim
+[0.429s] 
+[0.429s] Installed /home/uburyo/drone_lifting_ws/build/lifting_sim
+[0.429s] running symlink_data
+[0.429s] error: can't copy '/home/uburyo/drone_lifting_ws/build/lifting_sim/models/m5fly/dronemodel.sdf': doesn't exist or not a regular file
+[0.442s] Invoked command in '/home/uburyo/drone_lifting_ws/build/lifting_sim' returned '1': PYTHONPATH=/home/uburyo/drone_lifting_ws/build/lifting_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uburyo/drone_lifting_ws/install/lifting_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/uburyo/drone_lifting_ws/build/lifting_sim/build --no-deps symlink_data
